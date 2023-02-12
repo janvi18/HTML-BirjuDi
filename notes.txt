@@ -1,0 +1,27 @@
+HTML --> HyperText Markup Language
+Uses --> To create web pages and web applications.
+
+Extension of the file --> .html or .htm
+
+Basic syntax : 
+
+<html>
+    <head> // head part of the HTML
+        <title>
+            // title of the web page
+        </title>
+    </head>
+    <body>
+        // code
+    </body>
+</html>
+
+We have 6 types of heading tags....
+<h1> to <h6>
+
+Tags:
+<p> - paragraph
+<b> - bold the text 
+<i> - italic the text
+<u> - underline the text
+<br> - break row
